@@ -1,3 +1,4 @@
+require './lib/calculator'
 describe Calculator do
     describe "#add" do
       it "returns the sum of two numbers" do
